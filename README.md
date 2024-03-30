@@ -10,11 +10,11 @@ This is a simple slot machine game implemented in Python. Players can spin the r
 
 ## How to Play
 
-1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/your-username/slot-machine.git`.
+1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/joelsiby02/SlotMachine_py.git`.
 
-2. **Navigate to the Directory**: Move into the project directory: `cd slot-machine`.
+2. **Navigate to the Directory**: Move into the project directory: `cd SlotMachine_py`.
 
-3. **Run the Game**: Execute the `main.py` file to start the game: `python main.py`.
+3. **Run the Game**: Execute the `app.py` file to start the game: `python app.py`.
 
 4. **Deposit**: Enter your initial balance to start playing.
 
